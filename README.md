@@ -38,3 +38,4 @@
 ## 声明
 
 本项目为**非官方修改版**，与 PCL2 作者无关。原作版权归 [龙腾猫跃](https://github.com/Hex-Dragon) 所有，遵循其原始许可证发布。请勿就本版本的问题向原作者反馈。
+<img width="1287" height="771" alt="image" src="https://github.com/user-attachments/assets/4fb2886c-829e-4398-9b17-e7b0c6f0f68d" />
